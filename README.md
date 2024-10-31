@@ -12,3 +12,5 @@ Um app feito em **React.js** com **Tailwind CSS** e a biblioteca **react-qr-code
 - **React.js**: Biblioteca JavaScript para construir interfaces de usuário.
 - **Tailwind CSS**: Framework de CSS para estilização rápida e responsiva.
 - **react-qr-code**: Biblioteca para gerar QR Codes em aplicações React.
+
+🔗 [Deploy](https://gerador-qr-code-beryl.vercel.app/)
